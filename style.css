@@ -5,3 +5,8 @@
     font-family:'Times New Roman', Times, serif;
 
 }
+body{
+    text-align: center;
+    background: linear-gradient(to bottom, rgb(84, 6, 241), rgb(164,36, 215));
+    min-height: 100vh;
+}
